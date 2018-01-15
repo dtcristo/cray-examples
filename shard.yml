@@ -1,0 +1,13 @@
+name: cray_examples
+version: 0.1.0
+
+authors:
+  - David Cristofaro <david@dtcristo.com>
+
+dependencies:
+  cray:
+    gitlab: zatherz/cray
+
+crystal: 0.24.1
+
+license: zlib/libpng
