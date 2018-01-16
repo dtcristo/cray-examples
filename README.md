@@ -12,7 +12,7 @@ On macOS you can use Homebrew:
 $ brew install raylib
 ```
 
-On ArchLinx you can install `raylib` from the AUR.
+On Arch Linux you can install `raylib` from the AUR.
 
 Or [compile from source](https://github.com/raysan5/raylib/wiki/Compile-for-GNU-Linux) for Linux and be sure to use the `SHARED_RAYLIB=YES` compiler flag.
 
