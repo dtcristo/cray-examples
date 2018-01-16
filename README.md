@@ -26,7 +26,7 @@ $ crystal deps
 
 Simply run the desired example like so:
 ```
-$ crystal core_basic_window.cr
+$ crystal examples/core_basic_window.cr
 ```
 
 ## Credits
